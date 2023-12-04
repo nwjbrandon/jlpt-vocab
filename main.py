@@ -9,6 +9,11 @@ def create_dataset(filename):
 
     df.to_csv(filename, sep=",", index=False)
 
+def read_dataset(filename):
+    df = pd.read_csv(filename)
+    print(df.head())
+
 if __name__ == "__main__":
     filename = "nihongo-no-mori.csv"
-    create_dataset(filename)
+    # create_dataset(filename)
+    read_dataset(filename)
