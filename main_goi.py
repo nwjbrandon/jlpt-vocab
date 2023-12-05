@@ -19,9 +19,16 @@ class Application(tk.Frame):
         self.unique_words = set()
         self.records = self.read_csv()
 
+        self.tab_cnt = 0
+        self.n_tab_cnts = 3
+        self.kanji_textfield = None
+        self.hiragana_textfield = None
+        self.meaning_textfield = None
+
         self.create_kanji_textfield()
         self.create_hiragana_textfield()
         self.create_meaning_textfield()
+        self.handle_tab_event(None)
 
         self.create_add_button()
         self.create_last_save_timestamp_status_label()
@@ -100,9 +107,19 @@ class Application(tk.Frame):
             current_entry.grid(row=row_idx, column=self.table_headers.index(header))
 
     def keyboard_settings(self):
+        self.kanji_textfield.bind("<Tab>", lambda e: self.handle_tab_event(e))
+        self.hiragana_textfield.bind("<Tab>", lambda e: self.handle_tab_event(e))
+        self.meaning_textfield.bind("<Tab>", lambda e: self.handle_tab_event(e))
+
         self.master.bind("<Escape>", lambda e: self.close_app(e))
         self.master.bind("<Control-s>", lambda e: self.save_records(e))
         self.master.bind("<Control-a>", lambda e: self.add_record())
+
+    def handle_tab_event(self, e):
+        mapping = {0: self.kanji_textfield, 1: self.hiragana_textfield, 2: self.meaning_textfield}
+        textfield = mapping[self.tab_cnt]
+        textfield.focus()
+        self.tab_cnt = (self.tab_cnt + 1) % self.n_tab_cnts
 
     def save_records(self, e):
         df = pd.DataFrame(self.records)
