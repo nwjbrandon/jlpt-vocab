@@ -1,0 +1,502 @@
+[
+  {
+    "kanji": "穴",
+    "hiragana": "あな",
+    "meaning": "Hole"
+  },
+  {
+    "kanji": "油",
+    "hiragana": "あぶら",
+    "meaning": "Oil"
+  },
+  {
+    "kanji": "胃",
+    "hiragana": "い",
+    "meaning": "Stomach"
+  },
+  {
+    "kanji": "息",
+    "hiragana": "いき",
+    "meaning": "Breath"
+  },
+  {
+    "kanji": "裏",
+    "hiragana": "うら",
+    "meaning": "Back Side"
+  },
+  {
+    "kanji": "噂",
+    "hiragana": "うわさ",
+    "meaning": "Rumor"
+  },
+  {
+    "kanji": "餌",
+    "hiragana": "えさ",
+    "meaning": "Pet Food/Bait"
+  },
+  {
+    "kanji": "枝",
+    "hiragana": "えだ",
+    "meaning": "Branch"
+  },
+  {
+    "kanji": "襟",
+    "hiragana": "えり",
+    "meaning": "Collar"
+  },
+  {
+    "kanji": "奥",
+    "hiragana": "おく",
+    "meaning": "Inner Part"
+  },
+  {
+    "kanji": "親",
+    "hiragana": "おや",
+    "meaning": "Parent"
+  },
+  {
+    "kanji": "課",
+    "hiragana": "か",
+    "meaning": "Lesson/Department"
+  },
+  {
+    "kanji": "数",
+    "hiragana": "かず",
+    "meaning": "Number"
+  },
+  {
+    "kanji": "形",
+    "hiragana": "かたち",
+    "meaning": "Form"
+  },
+  {
+    "kanji": "壁",
+    "hiragana": "かべ",
+    "meaning": "Wall"
+  },
+  {
+    "kanji": "雷",
+    "hiragana": "かみなり",
+    "meaning": "Thunder"
+  },
+  {
+    "kanji": "皮",
+    "hiragana": "かわ",
+    "meaning": "Skin"
+  },
+  {
+    "kanji": "缶",
+    "hiragana": "かん",
+    "meaning": "Can"
+  },
+  {
+    "kanji": "曲",
+    "hiragana": "きょく",
+    "meaning": "Song"
+  },
+  {
+    "kanji": "雲",
+    "hiragana": "くも",
+    "meaning": "Cloud"
+  },
+  {
+    "kanji": "煙",
+    "hiragana": "けむり",
+    "meaning": "Smoke"
+  },
+  {
+    "kanji": "塩",
+    "hiragana": "しお",
+    "meaning": "Salt"
+  },
+  {
+    "kanji": "島",
+    "hiragana": "しま",
+    "meaning": "Island"
+  },
+  {
+    "kanji": "城",
+    "hiragana": "しろ",
+    "meaning": "Castle"
+  },
+  {
+    "kanji": "隅",
+    "hiragana": "すみ",
+    "meaning": "Corner"
+  },
+  {
+    "kanji": "咳",
+    "hiragana": "せき",
+    "meaning": "Cough"
+  },
+  {
+    "kanji": "底",
+    "hiragana": "そこ",
+    "meaning": "Bottom"
+  },
+  {
+    "kanji": "像",
+    "hiragana": "ぞう",
+    "meaning": "Statue"
+  },
+  {
+    "kanji": "旅",
+    "hiragana": "たび",
+    "meaning": "Trip"
+  },
+  {
+    "kanji": "妻",
+    "hiragana": "つま",
+    "meaning": "Wife"
+  },
+  {
+    "kanji": "毒",
+    "hiragana": "どく",
+    "meaning": "Poison"
+  },
+  {
+    "kanji": "謎",
+    "hiragana": "なぞ",
+    "meaning": "Mystery"
+  },
+  {
+    "kanji": "鍋",
+    "hiragana": "なべ",
+    "meaning": "Pot"
+  },
+  {
+    "kanji": "波",
+    "hiragana": "なみ",
+    "meaning": "Wave"
+  },
+  {
+    "kanji": "涙",
+    "hiragana": "なみだ",
+    "meaning": "Tears"
+  },
+  {
+    "kanji": "庭",
+    "hiragana": "にわ",
+    "meaning": "Garden"
+  },
+  {
+    "kanji": "熱",
+    "hiragana": "ねつ",
+    "meaning": "Fever"
+  },
+  {
+    "kanji": "箸",
+    "hiragana": "はし",
+    "meaning": "Chopstick"
+  },
+  {
+    "kanji": "畑",
+    "hiragana": "はたけ",
+    "meaning": "Field"
+  },
+  {
+    "kanji": "羽",
+    "hiragana": "はね",
+    "meaning": "Feather"
+  },
+  {
+    "kanji": "幅",
+    "hiragana": "はば",
+    "meaning": "Width"
+  },
+  {
+    "kanji": "膝",
+    "hiragana": "ひざ",
+    "meaning": "Knee"
+  },
+  {
+    "kanji": "袋",
+    "hiragana": "ふくろ",
+    "meaning": "Bag"
+  },
+  {
+    "kanji": "骨",
+    "hiragana": "ほね",
+    "meaning": "Bone"
+  },
+  {
+    "kanji": "棒",
+    "hiragana": "ぼう",
+    "meaning": "Stick"
+  },
+  {
+    "kanji": "孫",
+    "hiragana": "まご",
+    "meaning": "Grandchildren"
+  },
+  {
+    "kanji": "街",
+    "hiragana": "まち",
+    "meaning": "Street"
+  },
+  {
+    "kanji": "湖",
+    "hiragana": "みずうみ",
+    "meaning": "Lake"
+  },
+  {
+    "kanji": "娘",
+    "hiragana": "むすめ",
+    "meaning": "Daughter"
+  },
+  {
+    "kanji": "胸",
+    "hiragana": "むね",
+    "meaning": "Breast"
+  },
+  {
+    "kanji": "床",
+    "hiragana": "ゆか",
+    "meaning": "Floor"
+  },
+  {
+    "kanji": "夢",
+    "hiragana": "ゆめ",
+    "meaning": "Dream"
+  },
+  {
+    "kanji": "寮",
+    "hiragana": "りょう",
+    "meaning": "Dormitory"
+  },
+  {
+    "kanji": "量",
+    "hiragana": "りょう",
+    "meaning": "Amount"
+  },
+  {
+    "kanji": "列",
+    "hiragana": "れつ",
+    "meaning": "Line／Row"
+  },
+  {
+    "kanji": "合図",
+    "hiragana": "あいず",
+    "meaning": "Signal"
+  },
+  {
+    "kanji": "青空",
+    "hiragana": "あおぞら",
+    "meaning": "Blue Sky"
+  },
+  {
+    "kanji": "以外",
+    "hiragana": "いがい",
+    "meaning": "Exception"
+  },
+  {
+    "kanji": "以後",
+    "hiragana": "いご",
+    "meaning": "After That"
+  },
+  {
+    "kanji": "以降",
+    "hiragana": "いこう",
+    "meaning": "After"
+  },
+  {
+    "kanji": "維持",
+    "hiragana": "いじ",
+    "meaning": "Maintain"
+  },
+  {
+    "kanji": "意識",
+    "hiragana": "いしき",
+    "meaning": "Consciousness"
+  },
+  {
+    "kanji": "以前",
+    "hiragana": "いぜん",
+    "meaning": "Once Upon A Time"
+  },
+  {
+    "kanji": "位置",
+    "hiragana": "いち",
+    "meaning": "Position"
+  },
+  {
+    "kanji": "一流",
+    "hiragana": "いちりゅう",
+    "meaning": "Top"
+  },
+  {
+    "kanji": "一般",
+    "hiragana": "いっぱん",
+    "meaning": "General"
+  },
+  {
+    "kanji": "移動",
+    "hiragana": "いどう",
+    "meaning": "Move"
+  },
+  {
+    "kanji": "以内",
+    "hiragana": "いない",
+    "meaning": "Within"
+  },
+  {
+    "kanji": "田舎",
+    "hiragana": "いなか",
+    "meaning": "Country Side"
+  },
+  {
+    "kanji": "印刷",
+    "hiragana": "いんさつ",
+    "meaning": "Print"
+  },
+  {
+    "kanji": "印象",
+    "hiragana": "いんしょう",
+    "meaning": "Impression"
+  },
+  {
+    "kanji": "飲料",
+    "hiragana": "いんりょう",
+    "meaning": "Drink"
+  },
+  {
+    "kanji": "内側",
+    "hiragana": "うちがわ",
+    "meaning": "Inside"
+  },
+  {
+    "kanji": "宇宙",
+    "hiragana": "うちゅう",
+    "meaning": "Universe"
+  },
+  {
+    "kanji": "影響",
+    "hiragana": "えいきょう",
+    "meaning": "Effect"
+  },
+  {
+    "kanji": "営業",
+    "hiragana": "えいぎょう",
+    "meaning": "Sales"
+  },
+  {
+    "kanji": "栄養",
+    "hiragana": "えいよう",
+    "meaning": "Nutrition"
+  },
+  {
+    "kanji": "笑顔",
+    "hiragana": "えがお",
+    "meaning": "Smiley Face"
+  },
+  {
+    "kanji": "延期",
+    "hiragana": "えんき",
+    "meaning": "Postpone"
+  },
+  {
+    "kanji": "演奏",
+    "hiragana": "えんそう",
+    "meaning": "Performance"
+  },
+  {
+    "kanji": "遠慮",
+    "hiragana": "えんりょ",
+    "meaning": "Precaution"
+  },
+  {
+    "kanji": "往復",
+    "hiragana": "おうふく",
+    "meaning": "Round Trip"
+  },
+  {
+    "kanji": "応募",
+    "hiragana": "おうぼ",
+    "meaning": "Application"
+  },
+  {
+    "kanji": "応用",
+    "hiragana": "おうよう",
+    "meaning": "Application"
+  },
+  {
+    "kanji": "大勢",
+    "hiragana": "おおぜい",
+    "meaning": "Crowd"
+  },
+  {
+    "kanji": "親子",
+    "hiragana": "おやこ",
+    "meaning": "Parent And Child"
+  },
+  {
+    "kanji": "温泉",
+    "hiragana": "おんせん",
+    "meaning": "Hot Spring"
+  },
+  {
+    "kanji": "会員",
+    "hiragana": "かいいん",
+    "meaning": "Member"
+  },
+  {
+    "kanji": "絵画",
+    "hiragana": "かいが",
+    "meaning": "Painting"
+  },
+  {
+    "kanji": "会議",
+    "hiragana": "かいぎ",
+    "meaning": "Conference"
+  },
+  {
+    "kanji": "会計",
+    "hiragana": "かいけい",
+    "meaning": "Accounting/Check The Bills"
+  },
+  {
+    "kanji": "解決",
+    "hiragana": "かいけつ",
+    "meaning": "Solve"
+  },
+  {
+    "kanji": "回収",
+    "hiragana": "かいしゅう",
+    "meaning": "Collect"
+  },
+  {
+    "kanji": "開始",
+    "hiragana": "かいし",
+    "meaning": "Start"
+  },
+  {
+    "kanji": "会場",
+    "hiragana": "かいじょう",
+    "meaning": "Opening"
+  },
+  {
+    "kanji": "回数",
+    "hiragana": "かいすう",
+    "meaning": "Number Of Times"
+  },
+  {
+    "kanji": "解説",
+    "hiragana": "かいせつ",
+    "meaning": "Explanation"
+  },
+  {
+    "kanji": "階段",
+    "hiragana": "かいだん",
+    "meaning": "Stairs"
+  },
+  {
+    "kanji": "開店",
+    "hiragana": "かいてん",
+    "meaning": "Open (A Shop)"
+  },
+  {
+    "kanji": "価格",
+    "hiragana": "かかく",
+    "meaning": "Price"
+  }
+]
