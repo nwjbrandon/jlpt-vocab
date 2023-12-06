@@ -1,5 +1,20 @@
 [
   {
+    "kanji": "間",
+    "hiragana": "あいだ",
+    "meaning": "Between"
+  },
+  {
+    "kanji": "青",
+    "hiragana": "あお",
+    "meaning": "Blue"
+  },
+  {
+    "kanji": "味",
+    "hiragana": "あじ",
+    "meaning": "Taste"
+  },
+  {
     "kanji": "穴",
     "hiragana": "あな",
     "meaning": "Hole"
@@ -10,9 +25,19 @@
     "meaning": "Oil"
   },
   {
+    "kanji": "案",
+    "hiragana": "あん",
+    "meaning": "Plan"
+  },
+  {
     "kanji": "胃",
     "hiragana": "い",
     "meaning": "Stomach"
+  },
+  {
+    "kanji": "家",
+    "hiragana": "いえ/うち",
+    "meaning": "Home"
   },
   {
     "kanji": "息",
@@ -20,19 +45,44 @@
     "meaning": "Breath"
   },
   {
-    "kanji": "裏",
-    "hiragana": "うら",
-    "meaning": "Back Side"
+    "kanji": "池",
+    "hiragana": "いけ",
+    "meaning": "Pond"
   },
   {
-    "kanji": "噂",
-    "hiragana": "うわさ",
-    "meaning": "Rumor"
+    "kanji": "糸",
+    "hiragana": "いと",
+    "meaning": "Thread"
   },
   {
-    "kanji": "餌",
-    "hiragana": "えさ",
-    "meaning": "Pet Food/Bait"
+    "kanji": "芋",
+    "hiragana": "いも",
+    "meaning": "Potato"
+  },
+  {
+    "kanji": "歌",
+    "hiragana": "うた",
+    "meaning": "Song"
+  },
+  {
+    "kanji": "内",
+    "hiragana": "うち",
+    "meaning": "Inside"
+  },
+  {
+    "kanji": "器",
+    "hiragana": "うつわ",
+    "meaning": "Container"
+  },
+  {
+    "kanji": "腕",
+    "hiragana": "うで",
+    "meaning": "Arm"
+  },
+  {
+    "kanji": "絵",
+    "hiragana": "え",
+    "meaning": "Paint"
   },
   {
     "kanji": "枝",
@@ -40,14 +90,24 @@
     "meaning": "Branch"
   },
   {
-    "kanji": "襟",
-    "hiragana": "えり",
-    "meaning": "Collar"
-  },
-  {
     "kanji": "奥",
     "hiragana": "おく",
-    "meaning": "Inner Part"
+    "meaning": "Inner Part/At The Back"
+  },
+  {
+    "kanji": "音",
+    "hiragana": "おと",
+    "meaning": "Sound"
+  },
+  {
+    "kanji": "帯",
+    "hiragana": "おび",
+    "meaning": "Belt"
+  },
+  {
+    "kanji": "表",
+    "hiragana": "おもて/ひょう",
+    "meaning": "Outside/Form/Chart"
   },
   {
     "kanji": "親",
@@ -55,9 +115,19 @@
     "meaning": "Parent"
   },
   {
-    "kanji": "課",
-    "hiragana": "か",
-    "meaning": "Lesson/Department"
+    "kanji": "貝",
+    "hiragana": "かい",
+    "meaning": "Shell"
+  },
+  {
+    "kanji": "顔",
+    "hiragana": "かお",
+    "meaning": "Face"
+  },
+  {
+    "kanji": "傘",
+    "hiragana": "かさ",
+    "meaning": "Umbrella"
   },
   {
     "kanji": "数",
@@ -65,9 +135,24 @@
     "meaning": "Number"
   },
   {
+    "kanji": "肩",
+    "hiragana": "かた",
+    "meaning": "Shoulder"
+  },
+  {
+    "kanji": "方",
+    "hiragana": "かた/ほう",
+    "meaning": "Person/Side"
+  },
+  {
     "kanji": "形",
     "hiragana": "かたち",
     "meaning": "Form"
+  },
+  {
+    "kanji": "角",
+    "hiragana": "かど",
+    "meaning": "Corner"
   },
   {
     "kanji": "壁",
@@ -75,9 +160,24 @@
     "meaning": "Wall"
   },
   {
-    "kanji": "雷",
-    "hiragana": "かみなり",
-    "meaning": "Thunder"
+    "kanji": "紙",
+    "hiragana": "かみ",
+    "meaning": "Paper"
+  },
+  {
+    "kanji": "髪",
+    "hiragana": "かみ",
+    "meaning": "Hair"
+  },
+  {
+    "kanji": "空",
+    "hiragana": "から/そら",
+    "meaning": "Sky"
+  },
+  {
+    "kanji": "体",
+    "hiragana": "からだ",
+    "meaning": "Body"
   },
   {
     "kanji": "皮",
@@ -90,9 +190,54 @@
     "meaning": "Can"
   },
   {
+    "kanji": "柄",
+    "hiragana": "がら",
+    "meaning": "Pattern"
+  },
+  {
+    "kanji": "黄",
+    "hiragana": "き",
+    "meaning": "Yellow"
+  },
+  {
+    "kanji": "傷",
+    "hiragana": "きず",
+    "meaning": "Scratch"
+  },
+  {
+    "kanji": "君",
+    "hiragana": "きみ",
+    "meaning": "You"
+  },
+  {
     "kanji": "曲",
     "hiragana": "きょく",
     "meaning": "Song"
+  },
+  {
+    "kanji": "逆",
+    "hiragana": "ぎゃく",
+    "meaning": "Opposite"
+  },
+  {
+    "kanji": "草",
+    "hiragana": "くさ",
+    "meaning": "Grass"
+  },
+  {
+    "kanji": "薬",
+    "hiragana": "くすり",
+    "meaning": "Medicine"
+  },
+  {
+    "kanji": "靴",
+    "hiragana": "くつ",
+    "meaning": "Shoes"
+  },
+  {
+    "kanji": "首",
+    "hiragana": "くび",
+    "meaning": "Neck"
   },
   {
     "kanji": "雲",
@@ -103,6 +248,46 @@
     "kanji": "煙",
     "hiragana": "けむり",
     "meaning": "Smoke"
+  },
+  {
+    "kanji": "県",
+    "hiragana": "けん",
+    "meaning": "Prefecture"
+  },
+  {
+    "kanji": "腰",
+    "hiragana": "こし",
+    "meaning": "Lower-Back"
+  },
+  {
+    "kanji": "粉",
+    "hiragana": "こな",
+    "meaning": "Powder"
+  },
+  {
+    "kanji": "差",
+    "hiragana": "さ",
+    "meaning": "Difference"
+  },
+  {
+    "kanji": "坂",
+    "hiragana": "さか",
+    "meaning": "Slope"
+  },
+  {
+    "kanji": "桜",
+    "hiragana": "さくら",
+    "meaning": "Cherry Blossom"
+  },
+  {
+    "kanji": "皿",
+    "hiragana": "さら",
+    "meaning": "Plate"
+  },
+  {
+    "kanji": "猿",
+    "hiragana": "さる",
+    "meaning": "Ape"
   },
   {
     "kanji": "塩",
@@ -120,9 +305,29 @@
     "meaning": "Castle"
   },
   {
+    "kanji": "実",
+    "hiragana": "じつ/み",
+    "meaning": "Truth/Fruit"
+  },
+  {
+    "kanji": "酢",
+    "hiragana": "す",
+    "meaning": "Vinegar"
+  },
+  {
     "kanji": "隅",
     "hiragana": "すみ",
     "meaning": "Corner"
+  },
+  {
+    "kanji": "図",
+    "hiragana": "ず",
+    "meaning": "Chart/Graphic"
+  },
+  {
+    "kanji": "席",
+    "hiragana": "せき",
+    "meaning": "Seat"
   },
   {
     "kanji": "咳",
@@ -130,14 +335,39 @@
     "meaning": "Cough"
   },
   {
+    "kanji": "線",
+    "hiragana": "せん",
+    "meaning": "Line"
+  },
+  {
     "kanji": "底",
     "hiragana": "そこ",
     "meaning": "Bottom"
   },
   {
+    "kanji": "側",
+    "hiragana": "そば",
+    "meaning": "Side"
+  },
+  {
     "kanji": "像",
     "hiragana": "ぞう",
-    "meaning": "Statue"
+    "meaning": "Statue/Image"
+  },
+  {
+    "kanji": "他",
+    "hiragana": "た/他",
+    "meaning": "Others"
+  },
+  {
+    "kanji": "畳",
+    "hiragana": "たたみ",
+    "meaning": "Japanese Style Straw Mats"
+  },
+  {
+    "kanji": "棚",
+    "hiragana": "たな",
+    "meaning": "Shelf"
   },
   {
     "kanji": "旅",
@@ -145,9 +375,44 @@
     "meaning": "Trip"
   },
   {
+    "kanji": "卵",
+    "hiragana": "たまご",
+    "meaning": "Egg"
+  },
+  {
+    "kanji": "台",
+    "hiragana": "だい",
+    "meaning": "Board"
+  },
+  {
+    "kanji": "茶",
+    "hiragana": "ちゃ",
+    "meaning": "Tea"
+  },
+  {
+    "kanji": "机",
+    "hiragana": "つくえ",
+    "meaning": "Coffee Table"
+  },
+  {
     "kanji": "妻",
     "hiragana": "つま",
     "meaning": "Wife"
+  },
+  {
+    "kanji": "寺",
+    "hiragana": "てら",
+    "meaning": "Temple"
+  },
+  {
+    "kanji": "点",
+    "hiragana": "てん",
+    "meaning": "Point"
+  },
+  {
+    "kanji": "鳥",
+    "hiragana": "とり",
+    "meaning": "Bird"
   },
   {
     "kanji": "毒",
@@ -172,7 +437,7 @@
   {
     "kanji": "涙",
     "hiragana": "なみだ",
-    "meaning": "Tears"
+    "meaning": "Tear"
   },
   {
     "kanji": "庭",
@@ -185,6 +450,26 @@
     "meaning": "Fever"
   },
   {
+    "kanji": "葉",
+    "hiragana": "は",
+    "meaning": "Leaf"
+  },
+  {
+    "kanji": "歯",
+    "hiragana": "は",
+    "meaning": "Teeth"
+  },
+  {
+    "kanji": "箱",
+    "hiragana": "はこ",
+    "meaning": "Box"
+  },
+  {
+    "kanji": "橋",
+    "hiragana": "はし",
+    "meaning": "Bridge"
+  },
+  {
     "kanji": "箸",
     "hiragana": "はし",
     "meaning": "Chopstick"
@@ -193,6 +478,56 @@
     "kanji": "畑",
     "hiragana": "はたけ",
     "meaning": "Field"
+  },
+  {
+    "kanji": "鼻",
+    "hiragana": "はな",
+    "meaning": "Nose"
+  },
+  {
+    "kanji": "針",
+    "hiragana": "はり",
+    "meaning": "Needle"
+  },
+  {
+    "kanji": "倍",
+    "hiragana": "ばい",
+    "meaning": "Double/Number Times"
+  },
+  {
+    "kanji": "晩",
+    "hiragana": "ばん",
+    "meaning": "Night"
+  },
+  {
+    "kanji": "裏",
+    "hiragana": "うら",
+    "meaning": "Back Side"
+  },
+  {
+    "kanji": "噂",
+    "hiragana": "うわさ",
+    "meaning": "Rumor"
+  },
+  {
+    "kanji": "餌",
+    "hiragana": "えさ",
+    "meaning": "Pet Food/Bait"
+  },
+  {
+    "kanji": "襟",
+    "hiragana": "えり",
+    "meaning": "Collar"
+  },
+  {
+    "kanji": "課",
+    "hiragana": "か",
+    "meaning": "Lesson/Department"
+  },
+  {
+    "kanji": "雷",
+    "hiragana": "かみなり",
+    "meaning": "Thunder"
   },
   {
     "kanji": "羽",
