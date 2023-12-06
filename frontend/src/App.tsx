@@ -38,7 +38,7 @@ const AnswersGroup: React.FC<AnswersGroupProps> = ({
   answer,
   setInput
 }) => {
-  const AnswerButtonStyle = { fontSize: '16px' };
+  const AnswerButtonStyle = { fontSize: '14px', minWidth: '180px' };
 
   const getButtonColor = (option: string) => {
     if (input === '') {
@@ -59,7 +59,7 @@ const AnswersGroup: React.FC<AnswersGroupProps> = ({
       <Grid item className="answer_button" xs={6}>
         <Button
           style={AnswerButtonStyle}
-          variant="outlined"
+          variant="contained"
           onClick={() => setInput(option1)}
           color={getButtonColor(option1)}
         >
@@ -69,7 +69,7 @@ const AnswersGroup: React.FC<AnswersGroupProps> = ({
       <Grid item className="answer_button" xs={6}>
         <Button
           style={AnswerButtonStyle}
-          variant="outlined"
+          variant="contained"
           onClick={() => setInput(option2)}
           color={getButtonColor(option2)}
         >
@@ -79,7 +79,7 @@ const AnswersGroup: React.FC<AnswersGroupProps> = ({
       <Grid item className="answer_button" xs={6}>
         <Button
           style={AnswerButtonStyle}
-          variant="outlined"
+          variant="contained"
           onClick={() => setInput(option3)}
           color={getButtonColor(option3)}
         >
@@ -89,7 +89,7 @@ const AnswersGroup: React.FC<AnswersGroupProps> = ({
       <Grid item className="answer_button" xs={6}>
         <Button
           style={AnswerButtonStyle}
-          variant="outlined"
+          variant="contained"
           onClick={() => setInput(option4)}
           color={getButtonColor(option4)}
         >
@@ -101,15 +101,21 @@ const AnswersGroup: React.FC<AnswersGroupProps> = ({
 };
 
 interface NextQuestionButtonProps {
+  isAnswered: boolean;
   nextQuestion: () => void;
 }
 
-const NextQuestionButton: React.FC<NextQuestionButtonProps> = ({ nextQuestion }) => {
+const NextQuestionButton: React.FC<NextQuestionButtonProps> = ({ isAnswered, nextQuestion }) => {
   const NextQuestionButtonStyle = { marginTop: '10px' };
   return (
     <Grid container style={NextQuestionButtonStyle} spacing={1}>
       <Grid item className="next_button" xs={12}>
-        <Button className="next_button" variant="contained" onClick={nextQuestion}>
+        <Button
+          className="next_button"
+          variant="contained"
+          disabled={!isAnswered}
+          onClick={nextQuestion}
+        >
           Next
         </Button>
       </Grid>
@@ -138,6 +144,7 @@ const VocabPractice = () => {
   const kanji = vocab[qnIdx].kanji;
   const meaning = vocab[qnIdx].meaning;
   const answer = vocab[qnIdx].hiragana;
+  const isAnswered = input !== '';
 
   return (
     <>
@@ -151,7 +158,7 @@ const VocabPractice = () => {
         answer={answer}
         setInput={setInput}
       />
-      <NextQuestionButton nextQuestion={nextQuestion} />
+      <NextQuestionButton isAnswered={isAnswered} nextQuestion={nextQuestion} />
     </>
   );
 };
