@@ -5,7 +5,7 @@ from tkinter import ttk
 
 import pandas as pd
 
-CSV_FILENAME = "jlpt/goi/n2/nihongo-no-mori.csv"
+CSV_FILENAME = "jlpt/goi/n3/nihongo-no-mori.csv"
 
 
 class Application(tk.Frame):
